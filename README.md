@@ -1,3 +1,4 @@
+![Cafe Sales Dashboard](Dashboard_preview.png)
 ☕ Cafe Sales Performance Dashboard (2023)
 End-to-End Data Cleaning, Analysis, and Visualization
 📊 Executive Summary
